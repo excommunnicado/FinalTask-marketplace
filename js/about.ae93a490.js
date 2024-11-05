@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmarketplace_app"]=self["webpackChunkmarketplace_app"]||[]).push([[594],{603:function(a,e,n){n.r(e),n.d(e,{default:function(){return k}});var t=n(6768);const u={class:"about"},r=(0,t.Lk)("h1",null,"This is an about page",-1),c=[r];function s(a,e){return(0,t.uX)(),(0,t.CE)("div",u,c)}var p=n(1241);const l={},i=(0,p.A)(l,[["render",s]]);var k=i}}]);
+//# sourceMappingURL=about.ae93a490.js.map
